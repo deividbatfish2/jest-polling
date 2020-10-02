@@ -1,0 +1,15 @@
+{
+  "name": "jest-pooling",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/pool.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
